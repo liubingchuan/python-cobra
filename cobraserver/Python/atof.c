@@ -7,7 +7,7 @@
 #include "pyconfig.h"
 
 #include <ctype.h>
-
+// comments by me
 double atof(char *s)
 {
 	double a = 0.0;
